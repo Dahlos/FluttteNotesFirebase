@@ -1,6 +1,6 @@
 # flutter_notes_app
 
-A new Flutter application.
+A new Flutter application using Firebase tools .
 
 ## Getting Started
 
